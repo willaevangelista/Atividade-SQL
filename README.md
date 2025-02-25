@@ -1,6 +1,6 @@
 <div id = 'topo'/>
 
-# 💼 Gerenciamento de Banco de Dados de Serviço de RH, E-commerce e Ensino com SQL
+# 💼 Gerenciamento de Banco de Dados de Serviços de RH, E-commerce e Ensino com SQL
 
 Este projeto consiste na criação e manipulação de bancos de dados relacionais utilizando o **MySQL Workbench**, com foco nas áreas de Recursos Humanos (RH), E-commerce e Ensino. 
 O objetivo foi desenvolver scripts SQL para gerenciar informações de colaboradores, incluindo inserção de dados, consultas e atualização de registros.
