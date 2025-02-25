@@ -62,7 +62,7 @@ Para melhor visualização, aqui estão os arquivos desenvolvidos:
 
 <div id = 'tecnologias_utilizadas'/>
 
-### 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - **Banco de Dados:** MySQL
 - **Ferramenta de Desenvolvimento:** MySQL Workbench
